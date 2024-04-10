@@ -1,4 +1,4 @@
 # Sharp Wifi Password Dump
- .Net port of Windows-Wifi-Password-Dump
+Dump Windows saved Wifi Password; Built using .Net
 
 Tested on .Net 4.6
